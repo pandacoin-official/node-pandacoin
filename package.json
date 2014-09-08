@@ -1,0 +1,13 @@
+{
+    "name": "node-pandacoin",
+    "version": "0.0.1",
+    "description": "Pandacoin client",
+    "keywords": ["pandacoin"],
+    "repository": "git://github.com/pandacoin-official/node-pandacoin.git",
+    "author": "amDOGE <amdoge@pandacoinpnd.org>",
+    "main": "lib/pandacoin.js",
+    "engines": { "node": ">= 0.4.0" },
+    "devDependencies": {
+        "nodeunit": "*"
+    }
+}
